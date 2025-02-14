@@ -1,1 +1,2 @@
 This is the example file.
+"Add the new line in  the example"
