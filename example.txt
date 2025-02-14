@@ -1,6 +1,0 @@
-This is the example file.
-"Add the new line in  the example"
-'Add the 3rd line'
-
-add another
-add next
